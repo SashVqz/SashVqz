@@ -1,4 +1,6 @@
-## Introduction
+What's poppin', my name is Álvaro Vázquez
+
+I'm a double degree student in Physics and Software Engineering at the U-tad University of Madrid. I speak English and Spanish natively, I love to immerse myself in new projects and face new challenges
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/SashVqz">Thinkright20</a></h3>
 <!--
