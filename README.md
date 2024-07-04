@@ -1,7 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Whats+poppin+👋      +my+name+is+Álvaro+Vázquez;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Whats+poppin+👋;+my+name+is+Álvaro;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Seattle</h3>
@@ -9,8 +7,16 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on ****
-</div>
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about anything [here](https://github.com/SashVqz/SashVqz/issues)**
+
+⚡ Fun fact **Game of Thrones Night's **
+
+ </div>
  
 <div align="center"> 
   <a href="mailto:alvaro.vazquez.1716@gmail.com">
