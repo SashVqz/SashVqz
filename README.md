@@ -1,12 +1,9 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Whats poppin 👋 my name is Álvaro Vázquez</h1></summary>
-    <summary><h2>I'm a double degree student in Physics and Software Engineering at the U-tad University of Madrid. I speak English and Spanish natively, I love to immerse myself in new projects and face new challenges</h2></summary>
+    <summary><h5>I'm a double degree student in Physics and Software Engineering at the U-tad University of Madrid. I speak English and Spanish natively, I love to immerse myself in new projects and face new challenges</h5></summary>
   </ul>
 </div>
 
