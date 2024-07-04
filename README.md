@@ -1,8 +1,6 @@
 What's poppin', my name is Álvaro Vázquez
 
 I'm a double degree student in Physics and Software Engineering at the U-tad University of Madrid. I speak English and Spanish natively, I love to immerse myself in new projects and face new challenges
-
-<h3 align="center">Hey there, I'm <a href="https://github.com/SashVqz">Thinkright20</a></h3>
 <!--
 <p align="center">
   <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -13,20 +11,6 @@ I'm a double degree student in Physics and Software Engineering at the U-tad Uni
 
  </p>
  
-## Profile Views
-
-
-  <table>
-    <tr>
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/SashVqz"> <img src="https://komarev.com/ghpvc/?username=SashVqz&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
-
 ## What I'm Doing
 
 - 🔭 Working on a personal project with CUDA PhysX for GPU fluid simulation
