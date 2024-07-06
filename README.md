@@ -2,17 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Whats+poppin+👋;+my+name+is+Álvaro;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Seattle</h3>
+<h3 align="center">A passionate software developer from Madrid</h3>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on my TFG on particle collision simulation with the PhysX and CUDA library
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning on the AI and GPU programming technologies
 
 💬 Ask me about anything [here](https://github.com/SashVqz/SashVqz/issues)**
 
-⚡ Fun fact **Game of Thrones Night's **
 
  </div>
  
