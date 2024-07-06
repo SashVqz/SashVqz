@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,neo4j,cassandra,kubernetes,docker" />
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,rust,py,r,html,css" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,cassandra,kubernetes,docker"/><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind,express" /><br>
 </div>
 
