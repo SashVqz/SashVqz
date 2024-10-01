@@ -39,7 +39,8 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<div align="center">
     <img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs"/>
+    <br> <!-- Salto de línea para separar las imágenes -->
+    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 </div>
