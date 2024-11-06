@@ -68,13 +68,6 @@
     <h4>💻 Languages Utilized</h4>
     <p>Highlights the primary programming languages I've worked with, reflecting the diversity of technologies in my projects.</p>
     <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages">
-    .
-    <h4>🏆 Key Achievements</h4>
-    <p>
-        &#x2022; Consistently active with over <strong>X contributions in the last year</strong>, indicating strong engagement in open-source and collaborative work.<br>
-        &#x2022; Actively contributed to <strong>10+ projects</strong> in fields like particle physics simulations, AI, and web development.<br>
-        &#x2022; Recognized for <strong>effective issue resolution</strong> and code quality improvements in collaborative repositories.
-    </p>
 </div>
 
 ---
