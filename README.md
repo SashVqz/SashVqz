@@ -54,7 +54,13 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind" alt="Frameworks and Libraries"/>
 
    <h3>Advanced Tools and Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=cuda,opengl,vulkan" alt="Advanced Tools and Libraries"/>
+    <div>
+        <img src="https://skillicons.dev/icons?i=cuda" alt="CUDA" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=opengl" alt="OpenGL" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=vulkan" alt="Vulkan" width="40" height="40"/>
+        <img src="https://simpleicons.org/icons/nvidia.svg" alt="PhysX" width="40" height="40"/>
+        <img src="https://simpleicons.org/icons/microsoftdirectx.svg" alt="DirectX" width="40" height="40"/>
+    </div>
     <p>PhysX, CUDA, Vulkan, OpenGL, DirectX</p>
 </div>
 
