@@ -68,11 +68,11 @@
     <h4>✨ Overall Contributions and Activity</h4>
     <p>Demonstrates consistent contributions to personal and collaborative projects, showcasing a strong commitment to development and teamwork.</p>
     <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats">
-
+    .
     <h4>💻 Languages Utilized</h4>
     <p>Highlights the primary programming languages I've worked with, reflecting the diversity of technologies in my projects.</p>
     <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages">
-
+    .
     <h4>🏆 Key Achievements</h4>
     <p>
         &#x2022; Consistently active with over <strong>X contributions in the last year</strong>, indicating strong engagement in open-source and collaborative work.<br>
