@@ -25,7 +25,7 @@
   <a href="mailto:alvaro.vazquez.1716@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/álvaro-vázquez-384956323/)" target="_blank">
+  <a href="https://www.linkedin.com/in/álvaro-vázquez-384956323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://SashVqz.github.io" target="_blank">
@@ -42,19 +42,19 @@
 
 <div align="center">
     <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,rust,py,r,html,css" /><br><br>
-    
-    <h3>Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,cassandra" /><br><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,rust,py,r,html,css" alt="Programming Languages"/>
 
-    <h3>Containers and Orchestration</h3>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes" /><br><br>
-    
-    <h3>Frameworks and Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind" /><br><br>
-    
-    <h3>Advanced Tools and Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=cuda,opengl,vulkan" /><br>
+   <h3>Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,cassandra" alt="Databases"/>
+
+   <h3>Containers and Orchestration</h3>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers and Orchestration"/>
+
+   <h3>Frameworks and Libraries</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind" alt="Frameworks and Libraries"/>
+
+   <h3>Advanced Tools and Libraries</h3>
+    <img src="https://skillicons.dev/icons?i=cuda,opengl,vulkan" alt="Advanced Tools and Libraries"/>
     <p>PhysX, CUDA, Vulkan, OpenGL, DirectX</p>
 </div>
 
@@ -67,19 +67,17 @@
 <div align="center">
     <h4>✨ Overall Contributions and Activity</h4>
     <p>Demonstrates consistent contributions to personal and collaborative projects, showcasing a strong commitment to development and teamwork.</p>
-    <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-    <br><br>
+    <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats">
 
     <h4>💻 Languages Utilized</h4>
     <p>Highlights the primary programming languages I've worked with, reflecting the diversity of technologies in my projects.</p>
-    <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-    <br><br>
+    <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages">
 
     <h4>🏆 Key Achievements</h4>
     <p>
-        - Consistently active with over <strong>X contributions in the last year</strong>, indicating strong engagement in open-source and collaborative work.<br>
-        - Actively contributed to <strong>10+ projects</strong> in fields like particle physics simulations, AI, and web development.<br>
-        - Recognized for <strong>effective issue resolution</strong> and code quality improvements in collaborative repositories.
+        &#x2022; Consistently active with over <strong>X contributions in the last year</strong>, indicating strong engagement in open-source and collaborative work.<br>
+        &#x2022; Actively contributed to <strong>10+ projects</strong> in fields like particle physics simulations, AI, and web development.<br>
+        &#x2022; Recognized for <strong>effective issue resolution</strong> and code quality improvements in collaborative repositories.
     </p>
 </div>
 
@@ -93,4 +91,4 @@ Here are some of the most interesting projects that showcase my skills in simula
   
 - [**VPython Physics Simulations**](https://github.com/SashVqz/vpythonPhysicsSimulations): A toolkit for visualizing kinematic models using VPython. These projects were utilized in physics coursework at [University/School], contributing to a 25% improvement in concept retention among students.
   
-- [**Web Exam**](https://github.com/SashVqz/WebExam): A secure, web-based examination system with 99.9% accuracy in identity verification, used for remote assessments
+- [**Web Exam**](https://github.com/SashVqz/WebExam): A secure, web-based examination system with 99.9% accuracy in identity verification, used for remote assessments.
