@@ -5,16 +5,15 @@
 <h3 align="center">Software Developer | Computational Physicist</h3>
 
 <p align="center">
-  Passionate about creating innovative simulations and high-performance systems. My work focuses on AI technologies, GPU programming, and particle physics simulations, aiming to push the boundaries of what is computationally possible.
+  My work focuses on AI technologies, GPU programming, and particle physics simulations, aiming to push the boundaries of what is computationally possible.
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🔭 Currently working on my **final thesis project on particle collision simulation** using PhysX and CUDA.
-- 🌱 Continuously learning about **AI technologies**, **GPU programming**, and **simulation frameworks**.
+- 🌱 Continuously learning about **AI technologies**, **GPU programming**.
 - 💡 **Interests**: Quantum computing, real-time simulations, and advanced AI applications.
-- 🎯 **Next Steps**: I’m excited to explore **machine learning models** integrated with **high-performance computing**.
 - 💬 Feel free to ask me anything by opening an [issue on my GitHub](https://github.com/SashVqz/SashVqz/issues).
 
 ---
