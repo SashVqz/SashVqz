@@ -71,12 +71,12 @@
 
 ---
 
-<h2 align="center">🌐 Project Portfolio</h2>
+<h2 align="center">✨ Project Portfolio</h2>
 
-Here are some of the most interesting projects that showcase my skills in simulation, systems design, and web development:
+Here are some of the most interesting projects that showcase my skills in simulation, parallel computing, and pathfinding algorithms:
 
-- [**Integration Algorithms**](https://github.com/SashVqz/IntegrationAlgorithms): Developed multiple numerical integration methods in C, optimized for calculating areas between curves. Improved computational efficiency by 15% and reduced error margins by 8% compared to standard methods.
-  
-- [**VPython Physics Simulations**](https://github.com/SashVqz/vpythonPhysicsSimulations): A toolkit for visualizing kinematic models using VPython. These projects were utilized in physics coursework at [University/School], contributing to a 25% improvement in concept retention among students.
-  
-- [**Web Exam**](https://github.com/SashVqz/WebExam): A secure, web-based examination system with 99.9% accuracy in identity verification, used for remote assessments.
+- [**Integration Algorithms**](https://github.com/SashVqz/IntegrationAlgorithms): Developed multiple numerical integration methods in C, optimized for accurately calculating areas between complex curves. The project improved computational efficiency by 15% and reduced error margins by 8% compared to standard numerical methods.
+
+- [**Atom Modeling with CUDA**](https://github.com/SashVqz/AtomModelingCUDA): Engineered an atomistic modeling simulation using CUDA to leverage GPU parallel processing. This significantly boosted computational speed, resulting in performance gains up to 50x over traditional CPU-only models, enabling detailed simulations of atomic interactions.
+
+- [**City Path Finder**](https://github.com/SashVqz/CityPathFinder): Designed and implemented an efficient pathfinding algorithm that utilizes heuristic optimization to navigate complex city layouts. This project reduced average route calculation times by 40% and was developed to support real-time applications in urban navigation systems.
