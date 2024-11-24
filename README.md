@@ -1,16 +1,12 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Álvaro+👋" />
-</h1>
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Álvaro+👋" alt="Typing Animation" />
 
-<h3 align="center">Software Developer | Computational Physicist</h3>
+### Software Developer | Computational Physicist
 
-<p align="center">
-  My work focuses on AI technologies, GPU programming, and particle physics simulations, aiming to push the boundaries of what is computationally possible.
-</p>
+My work focuses on AI technologies, GPU programming, and particle physics simulations, aiming to push the boundaries of what is computationally possible.
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🔭 Currently working on my **final thesis project on particle collision simulation** using PhysX and CUDA.
 - 🌱 Continuously learning about **AI technologies**, **GPU programming**.
 - 💡 **Interests**: Quantum computing, real-time simulations, and advanced AI applications.
@@ -18,7 +14,7 @@
 
 ---
 
-<h2 align="center">📫 Contact</h2>
+## 📫 Contact
 
 <div align="center">
   <a href="mailto:alvaro.vazquez.1716@gmail.com">
@@ -37,52 +33,48 @@
 
 ---
 
-<h2 align="center">⚙️ Skills and Technologies</h2>
+## ⚙️ Skills and Technologies
 
-<div align="center">
-    <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,rust,py,r,html,css" alt="Programming Languages"/>
+### Programming Languages
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,rust,py,r,html,css)
 
-    <h3>Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,cassandra" alt="Databases"/>
+### Databases
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,redis,cassandra)
 
-    <h3>Containers and Orchestration</h3>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers and Orchestration"/>
+### Containers and Orchestration
+![Containers](https://skillicons.dev/icons?i=docker,kubernetes)
 
-    <h3>Frameworks and Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind" alt="Frameworks and Libraries"/>
+### Frameworks and Libraries
+![Frameworks and Libraries](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind)
 
-    <h3>AI Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>
-    <img src="https://skillicons.dev/icons?i=scikit-learn" alt="Scikit-Learn"/>
-    <img src="https://skillicons.dev/icons?i=keras" alt="Keras"/>
+### AI Technologies
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Scikit-Learn](https://skillicons.dev/icons?i=scikit-learn)
+![Keras](https://skillicons.dev/icons?i=keras)
 
-    <h3>Graphics Programming</h3>
-    <img src="https://skillicons.dev/icons?i=opengl" alt="OpenGL"/>
-    <img src="https://skillicons.dev/icons?i=nvidia" alt="CUDA"/>
-    <img src="https://skillicons.dev/icons?i=vulkan" alt="Vulkan"/>
-</div>
+### Graphics Programming
+![OpenGL](https://skillicons.dev/icons?i=opengl)
+![CUDA](https://skillicons.dev/icons?i=nvidia)
+![Vulkan](https://skillicons.dev/icons?i=vulkan)
 
 ---
 
-<h2 align="center">📈 GitHub Statistics</h2>
+## 📈 GitHub Statistics
 
-<p align="center">Below are my GitHub statistics, showcasing my commitment and contributions across multiple projects, languages, and collaborations.</p>
+### ✨ Overall Contributions and Activity
+Demonstrates consistent contributions to personal and collaborative projects, showcasing a strong commitment to development and teamwork.
 
-<div align="center">
-    <h4>✨ Overall Contributions and Activity</h4>
-    <p>Demonstrates consistent contributions to personal and collaborative projects, showcasing a strong commitment to development and teamwork.</p>
-    <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats">
-    .
-    <h4>💻 Languages Utilized</h4>
-    <p>Highlights the primary programming languages I've worked with, reflecting the diversity of technologies in my projects.</p>
-    <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
+
+### 💻 Languages Utilized
+Highlights the primary programming languages I've worked with, reflecting the diversity of technologies in my projects.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10)
 
 ---
 
-<h2 align="center">✨ Project Portfolio</h2>
+## ✨ Project Portfolio
 
 Here are some of the most interesting projects that showcase my skills in simulation, parallel computing, and pathfinding algorithms:
 
