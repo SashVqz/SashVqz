@@ -43,14 +43,25 @@
     <h3>Programming Languages</h3>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,rust,py,r,html,css" alt="Programming Languages"/>
 
-   <h3>Databases</h3>
+    <h3>Databases</h3>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,cassandra" alt="Databases"/>
 
-   <h3>Containers and Orchestration</h3>
+    <h3>Containers and Orchestration</h3>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers and Orchestration"/>
 
-   <h3>Frameworks and Libraries</h3>
+    <h3>Frameworks and Libraries</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind" alt="Frameworks and Libraries"/>
+
+    <h3>AI Technologies</h3>
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>
+    <img src="https://skillicons.dev/icons?i=scikit-learn" alt="Scikit-Learn"/>
+    <img src="https://skillicons.dev/icons?i=keras" alt="Keras"/>
+
+    <h3>Graphics Programming</h3>
+    <img src="https://skillicons.dev/icons?i=opengl" alt="OpenGL"/>
+    <img src="https://skillicons.dev/icons?i=nvidia" alt="CUDA"/>
+    <img src="https://skillicons.dev/icons?i=vulkan" alt="Vulkan"/>
 </div>
 
 ---
