@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Álvaro+👋" />
+    <img src="https://img.shields.io/badge/Hello!-I'm%20Álvaro-FF5722?style=for-the-badge" alt="Hello I'm Álvaro" />
 </h1>
 
 <h3 align="center">Software Developer | Computational Physicist</h3>
@@ -97,10 +97,3 @@ Here are a few highlights of my projects, showcasing my expertise in simulation,
 - [**City Path Finder**](https://github.com/SashVqz/CityPathFinder):  
   Designed an efficient pathfinding algorithm for urban navigation systems. Utilizing heuristic optimizations, it reduced average route calculation times by **40%**, making it ideal for real-time applications.
 
----
-
-<h2 align="center">🌟 Let's Connect!</h2>
-
-<p align="center">
-  I'm always excited to collaborate on innovative projects or discuss cutting-edge technologies. Reach out to me via the links above!
-</p>
