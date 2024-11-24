@@ -50,13 +50,13 @@ My work focuses on AI technologies, GPU programming, and particle physics simula
 ### AI Technologies
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Scikit-Learn](https://skillicons.dev/icons?i=scikit-learn)
-![Keras](https://skillicons.dev/icons?i=keras)
+![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+![Keras](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg)
 
 ### Graphics Programming
-![OpenGL](https://skillicons.dev/icons?i=opengl)
-![CUDA](https://skillicons.dev/icons?i=nvidia)
-![Vulkan](https://skillicons.dev/icons?i=vulkan)
+![OpenGL](https://upload.wikimedia.org/wikipedia/commons/2/22/OpenGL_logo.svg)
+![CUDA](https://upload.wikimedia.org/wikipedia/commons/9/90/NVIDIA_logo.svg)
+![Vulkan](https://upload.wikimedia.org/wikipedia/commons/9/9b/Vulkan-logo.svg)
 
 ---
 
