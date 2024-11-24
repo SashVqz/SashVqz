@@ -1,20 +1,102 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Álvaro+👋" alt="Typing Animation" />
+# Álvaro Vázquez
 
-### Software Developer | Computational Physicist
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Álvaro+👋" alt="Typing Animation" />
+</p>
 
-My work focuses on AI technologies, GPU programming, and particle physics simulations, aiming to push the boundaries of what is computationally possible.
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on my **final thesis project on particle collision simulation** using PhysX and CUDA.
-- 🌱 Continuously learning about **AI technologies**, **GPU programming**.
-- 💡 **Interests**: Quantum computing, real-time simulations, and advanced AI applications.
-- 💬 Feel free to ask me anything by opening an [issue on my GitHub](https://github.com/SashVqz/SashVqz/issues).
+<p align="center">
+  <strong>Software Developer | Computational Physicist</strong>
+</p>
 
 ---
 
-## 📫 Contact
+## 🌟 About Me
+
+Hi there! 👋 I am a passionate **Software Developer** and **Computational Physicist** dedicated to solving complex problems through cutting-edge technologies. My work focuses on:
+
+- 🚀 AI technologies and advanced machine learning.
+- 🎮 GPU programming and real-time simulations.
+- ⚛️ Particle physics simulations using CUDA and PhysX.
+
+In my spare time, I explore **quantum computing**, optimize numerical algorithms, and develop tools for computational efficiency.
+
+---
+
+## 💼 Portfolio at a Glance
+
+### 🎓 Current Focus
+- 📘 Final thesis project on **particle collision simulation** using CUDA and PhysX.
+- 🌱 Continuously learning about **AI applications**, **parallel computing**, and **real-time systems**.
+
+### 💡 Interests
+- Quantum computing
+- Heuristic optimization techniques
+- Advanced AI and neural network architectures
+
+### 🛠️ My Technical Toolbox
+
+#### **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,rust,py,r,html,css" alt="Programming Languages" />
+</p>
+
+#### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,cassandra" alt="Databases" />
+</p>
+
+#### **Containers & Orchestration**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers and Orchestration" />
+</p>
+
+#### **Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind" alt="Frameworks and Libraries" />
+</p>
+
+#### **AI & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI Technologies" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50" />
+</p>
+
+#### **Graphics Programming**
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/OpenGL_logo.svg" alt="OpenGL" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/NVIDIA_logo.svg" alt="CUDA" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Vulkan-logo.svg" alt="Vulkan" height="50" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SashVqz&show_icons=true&theme=react&rank_icon=github" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashVqz&layout=compact&theme=react&langs_count=8" alt="Top Languages" width="400"/>
+</div>
+
+---
+
+## 🏆 Highlighted Projects
+
+### [Integration Algorithms](https://github.com/SashVqz/IntegrationAlgorithms)
+- 🛠️ **Languages Used**: C
+- 📊 **Description**: Developed numerical integration methods to optimize area calculations between complex curves, improving computational efficiency by 15%.
+
+### [Atom Modeling with CUDA](https://github.com/SashVqz/AtomModelingCUDA)
+- 🚀 **Technologies Used**: CUDA, GPU Programming
+- ⚡ **Impact**: Achieved a 50x computational speed-up for atomistic modeling using GPU parallelism.
+
+### [City Path Finder](https://github.com/SashVqz/CityPathFinder)
+- 🛣️ **Algorithm**: Heuristic optimization for efficient pathfinding.
+- 🌍 **Application**: Reduced route calculation times by 40% for real-time navigation systems.
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
   <a href="mailto:alvaro.vazquez.1716@gmail.com">
@@ -24,62 +106,9 @@ My work focuses on AI technologies, GPU programming, and particle physics simula
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://SashVqz.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://my_cv_url.com" target="_blank">
-     <img src="https://img.shields.io/badge/Curriculum-333333?style=for-the-badge&logo=google-drive&logoColor=white" alt="Curriculum Vitae" />
+    <img src="https://img.shields.io/badge/Curriculum-333333?style=for-the-badge&logo=google-drive&logoColor=white" alt="Curriculum Vitae" />
   </a>
 </div>
-
----
-
-## ⚙️ Skills and Technologies
-
-### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,rust,py,r,html,css)
-
-### Databases
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql,redis,cassandra)
-
-### Containers and Orchestration
-![Containers](https://skillicons.dev/icons?i=docker,kubernetes)
-
-### Frameworks and Libraries
-![Frameworks and Libraries](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind)
-
-### AI Technologies
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
-![Keras](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg)
-
-### Graphics Programming
-![OpenGL](https://upload.wikimedia.org/wikipedia/commons/2/22/OpenGL_logo.svg)
-![CUDA](https://upload.wikimedia.org/wikipedia/commons/9/90/NVIDIA_logo.svg)
-![Vulkan](https://upload.wikimedia.org/wikipedia/commons/9/9b/Vulkan-logo.svg)
-
----
-
-## 📈 GitHub Statistics
-
-### ✨ Overall Contributions and Activity
-Demonstrates consistent contributions to personal and collaborative projects, showcasing a strong commitment to development and teamwork.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
-
-### 💻 Languages Utilized
-Highlights the primary programming languages I've worked with, reflecting the diversity of technologies in my projects.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10)
-
----
-
-## ✨ Project Portfolio
-
-Here are some of the most interesting projects that showcase my skills in simulation, parallel computing, and pathfinding algorithms:
-
-- [**Integration Algorithms**](https://github.com/SashVqz/IntegrationAlgorithms): Developed multiple numerical integration methods in C, optimized for accurately calculating areas between complex curves. The project improved computational efficiency by 15% and reduced error margins by 8% compared to standard numerical methods.
-
-- [**Atom Modeling with CUDA**](https://github.com/SashVqz/AtomModelingCUDA): Engineered an atomistic modeling simulation using CUDA to leverage GPU parallel processing. This significantly boosted computational speed, resulting in performance gains up to 50x over traditional CPU-only models, enabling detailed simulations of atomic interactions.
-
-- [**City Path Finder**](https://github.com/SashVqz/CityPathFinder): Designed and implemented an efficient pathfinding algorithm that utilizes heuristic optimization to navigate complex city layouts. This project reduced average route calculation times by 40% and was developed to support real-time applications in urban navigation systems.
