@@ -30,7 +30,7 @@
   <a href="https://SashVqz.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="[https://my_cv_url.com](https://www.canva.com/design/DAGV6cn5gSk/XhEuxhCcwEUYOCc4GZ5mcA/view?utm_content=DAGV6cn5gSk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04e5daecfe)" target="_blank">
+  <a href="https://www.canva.com/design/DAGV6cn5gSk/XhEuxhCcwEUYOCc4GZ5mcA/view?utm_content=DAGV6cn5gSk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04e5daecfe" target="_blank">
      <img src="https://img.shields.io/badge/Curriculum-333333?style=for-the-badge&logo=google-drive&logoColor=white" alt="Curriculum Vitae" />
   </a>
 </div>
