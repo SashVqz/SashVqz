@@ -59,7 +59,7 @@
     <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=gray&title_color=black&icon_color=black&text_color=black" alt="GitHub Stats">
     .
     <h4>💻 Languages Utilized</h4>
-    <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages">
+    <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&bg_color=gray&title_color=black&text_color=black&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages">
 </div>
 
 ---
