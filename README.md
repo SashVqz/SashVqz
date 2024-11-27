@@ -48,24 +48,17 @@
 
    <h3>Containers and Orchestration</h3>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers and Orchestration"/>
-
-   <h3>Frameworks and Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind" alt="Frameworks and Libraries"/>
 </div>
 
 ---
 
 <h2 align="center">📈 GitHub Statistics</h2>
 
-<p align="center">Below are my GitHub statistics, showcasing my commitment and contributions across multiple projects, languages, and collaborations.</p>
-
 <div align="center">
     <h4>✨ Overall Contributions and Activity</h4>
-    <p>Demonstrates consistent contributions to personal and collaborative projects, showcasing a strong commitment to development and teamwork.</p>
     <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats">
     .
     <h4>💻 Languages Utilized</h4>
-    <p>Highlights the primary programming languages I've worked with, reflecting the diversity of technologies in my projects.</p>
     <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages">
 </div>
 
