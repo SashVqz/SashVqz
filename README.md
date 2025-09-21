@@ -10,14 +10,6 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on my **final thesis project on particle collision simulation** using PhysX and CUDA.
-- 🌱 Continuously learning about **AI technologies**, **GPU programming**.
-- 💡 **Interests**: Quantum computing, real-time simulations, and advanced AI applications.
-- 💬 Feel free to ask me anything by opening an [issue on my GitHub](https://github.com/SashVqz/SashVqz/issues).
-
----
-
 <h2 align="center">📫 Contact</h2>
 
 <div align="center">
