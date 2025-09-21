@@ -8,8 +8,6 @@
   My work focuses on AI technologies, GPU programming, and particle physics simulations, aiming to push the boundaries of what is computationally possible.
 </p>
 
----
-
 <h2 align="center">📫 Contact</h2>
 
 <div align="center">
