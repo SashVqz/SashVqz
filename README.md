@@ -4,13 +4,7 @@
 
 <h3 align="center">Software Engineer | Computational Physicist</h3>
 
-<p align="center">
-  AI Model Architect specializing in Computer Vision, Machine Learning, and Deep Learning. Experienced in GPU programming and distributed systems for optimizing AI model performance and developing complex virtual environment simulations.
-</p>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
 As an AI model architect, I possess strong analytical capabilities, demonstrated in research projects focused on designing efficient and scalable architectures. My goal is always high performance, which I complement with my experience in seeking solutions in Kaggle competitions and scientific research groups.
@@ -20,9 +14,8 @@ As an AI model architect, I possess strong analytical capabilities, demonstrated
 In project management, I apply the Scrum methodology and use Git for version control. I have a constant interest in acquiring knowledge in fields such as astrophysics, quantum mechanics, medicine, and finance.
 </p>
 
----
 
-<h2 align="center">📫 Contact</h2>
+<h2 align="center">Contact</h2>
 
 <div align="center">
   <a href="mailto:alvaro.vazquez.1716@gmail.com">
@@ -39,16 +32,14 @@ In project management, I apply the Scrum methodology and use Git for version con
   </a>
 </div>
 
----
-
-<h2 align="center">⚙️ Skills and Technologies</h2>
+<h2 align="center">Skills and Technologies</h2>
 
 <div align="center">
     
-### 💻 Programming Languages
+### Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,python,java,js,ts,r,html,css" alt="Programming Languages"/>
 
-### 🤖 Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning
 **Frameworks:** PyTorch • TensorFlow • JAX
 
 **Architectures:** Vision Transformers • YOLO • Diffusion Models • UNet/Duck-Net • RAG Systems • Fine-tuning (LoRA/QLoRA) • GNN • NAS • ESN/TCN
@@ -59,7 +50,7 @@ In project management, I apply the Scrum methodology and use Git for version con
 
 **Data Processing:** Pandas • Spark • Albumentations • OpenCV • Pillow/PIL
 
-### 🎮 GPU Programming & Graphics
+### GPU Programming & Graphics
 **Graphics APIs:** CUDA • Vulkan • OpenGL • OptiX • WebGPU
 
 **Simulation & Physics:** PhysX • Warp • Taichi
@@ -68,44 +59,30 @@ In project management, I apply the Scrum methodology and use Git for version con
 
 **Shading Languages:** GLSL • HLSL • Slang
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,cassandra,firebase" alt="Databases"/>
+### Databases
 
 **NoSQL:** MongoDB • Firebase • Cassandra • Redis • Neo4J
 
 **SQL:** PostgreSQL • MySQL
 
 ### 🔧 Backend Development
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="Backend"/>
 
 **Frameworks:** FastAPI • Flask • Node.js • Express
 
 **API Design:** REST • GraphQL
 
-### 🐳 DevOps & Containers
+### DevOps & Containers
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" alt="DevOps"/>
 
 </div>
 
----
-
-<h2 align="center">🎓 Education</h2>
-
-<p align="center">
-<strong>Dual Degree in Software Engineering and Computational Physics</strong><br>
-University of Technology and Digital Art (U-tad), Madrid, Spain<br>
-Expected Graduation: 2026
-</p>
-
----
-
-<h2 align="center">📈 GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
-    <h4>✨ Overall Contributions and Activity</h4>
+    <h4> Overall Contributions and Activity</h4>
     <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=gray&title_color=black&icon_color=black&text_color=black" alt="GitHub Stats">
     
-    <h4>💻 Languages Utilized</h4>
+    <h4>Languages Utilized</h4>
     <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&bg_color=gray&title_color=black&text_color=black&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages">
 </div>
 
