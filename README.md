@@ -82,24 +82,4 @@ In project management, I apply the Scrum methodology and use Git for version con
     <h4> Overall Contributions and Activity</h4>
     <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=gray&title_color=black&icon_color=black&text_color=black" alt="GitHub Stats">
     
-    <h4>Languages Utilized</h4>
-    <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&bg_color=gray&title_color=black&text_color=black&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages">
-</div>
-
----
-
-<h2 align="center">✨ Project Portfolio</h2>
-
-Here are some of the most interesting projects that showcase my skills in simulation, parallel computing, and pathfinding algorithms:
-
-- [**Integration Algorithms**](https://github.com/SashVqz/IntegrationAlgorithms): Developed multiple numerical integration methods in C, optimized for accurately calculating areas between complex curves. The project improved computational efficiency by 15% and reduced error margins by 8% compared to standard numerical methods.
-
-- [**Atom Modeling with CUDA**](https://github.com/SashVqz/AtomModelingCUDA): Engineered an atomistic modeling simulation using CUDA to leverage GPU parallel processing. This significantly boosted computational speed, resulting in performance gains up to 50x over traditional CPU-only models, enabling detailed simulations of atomic interactions.
-
-- [**City Path Finder**](https://github.com/SashVqz/CityPathFinder): Designed and implemented an efficient pathfinding algorithm that utilizes heuristic optimization to navigate complex city layouts. This project reduced average route calculation times by 40% and was developed to support real-time applications in urban navigation systems.
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SashVqz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
