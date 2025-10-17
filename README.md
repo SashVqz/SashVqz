@@ -4,18 +4,17 @@
 
 <h3 align="center">Software Engineer | Computational Physicist</h3>
 
-<h2 align="center">About Me</h2>
+<br>
 
-<p align="center">
+## About Me
+
 As an AI model architect, I possess strong analytical capabilities, demonstrated in research projects focused on designing efficient and scalable architectures. My goal is always high performance, which I complement with my experience in seeking solutions in Kaggle competitions and scientific research groups.
-</p>
 
-<p align="center">
 In project management, I apply the Scrum methodology and use Git for version control. I have a constant interest in acquiring knowledge in fields such as astrophysics, quantum mechanics, medicine, and finance.
-</p>
 
+<br>
 
-<h2 align="center">Contact</h2>
+## Contact
 
 <div align="center">
   <a href="mailto:alvaro.vazquez.1716@gmail.com">
@@ -32,54 +31,97 @@ In project management, I apply the Scrum methodology and use Git for version con
   </a>
 </div>
 
-<h2 align="center">Skills and Technologies</h2>
+<br>
 
-<div align="center">
-    
+## Skills and Technologies
+
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,python,java,js,ts,r,html,css" alt="Programming Languages"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,python,julia,java,js,ts,r" alt="Programming Languages"/>
+</p>
 
-### Artificial Intelligence & Machine Learning
-**Frameworks:** PyTorch • TensorFlow • JAX
+### AI & Machine Learning
 
-**Architectures:** Vision Transformers • YOLO • Diffusion Models • UNet/Duck-Net • RAG Systems • Fine-tuning (LoRA/QLoRA) • GNN • NAS • ESN/TCN
+#### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI Frameworks"/>
+  <img src="https://img.shields.io/badge/JAX-8A2BE2?style=for-the-badge&logo=google&logoColor=white" alt="JAX"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
 
-**Cloud & Deployment:** AWS • Azure • Docker • Kubernetes • Triton Inference Server
+#### Architectures & Techniques
+- **Vision Models:** Vision Transformers, YOLO, UNet/Duck-Net, Diffusion Models
+- **Advanced ML:** RAG Systems, Fine-tuning (LoRA/QLoRA), GNN, NAS, ESN/TCN
+- **Gradient Boosting:** XGBoost, LightGBM
+- **Data Processing:** Spark, Albumentations, Pillow/PIL
 
-**MLOps & Tools:** Git • Weights & Biases • MLFlow • Ray • scikit-learn • XGBoost • LightGBM
-
-**Data Processing:** Pandas • Spark • Albumentations • OpenCV • Pillow/PIL
+#### Cloud & MLOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git" alt="Cloud & MLOps"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
+  <img src="https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLFlow"/>
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" alt="Ray"/>
+  <img src="https://img.shields.io/badge/Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Triton"/>
+</p>
 
 ### GPU Programming & Graphics
-**Graphics APIs:** CUDA • Vulkan • OpenGL • OptiX • WebGPU
 
-**Simulation & Physics:** PhysX • Warp • Taichi
+#### Graphics APIs & Compute
+<p>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+  <img src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white" alt="WebGPU"/>
+  <img src="https://img.shields.io/badge/OptiX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="OptiX"/>
+</p>
 
-**Engines & 3D Tools:** Unity • Houdini • Maya • Blender
+#### Engines & 3D Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,blender" alt="3D Tools"/>
+  <img src="https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white" alt="Houdini"/>
+  <img src="https://img.shields.io/badge/Maya-00B2A9?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya"/>
+</p>
 
-**Shading Languages:** GLSL • HLSL • Slang
+#### Physics & Shading
+- **Physics Engines:** PhysX, Warp, Taichi
+- **Shading Languages:** GLSL, HLSL, Slang
 
 ### Databases
 
-**NoSQL:** MongoDB • Firebase • Cassandra • Redis • Neo4J
+#### SQL Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" alt="SQL Databases"/>
+</p>
 
-**SQL:** PostgreSQL • MySQL
+#### NoSQL Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,cassandra,firebase" alt="NoSQL Databases"/>
+  <img src="https://img.shields.io/badge/Neo4J-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4J"/>
+</p>
 
-### 🔧 Backend Development
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,graphql" alt="Backend"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST"/>
+</p>
 
-**Frameworks:** FastAPI • Flask • Node.js • Express
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" alt="DevOps"/>
+</p>
 
-**API Design:** REST • GraphQL
+<br>
 
-### DevOps & Containers
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git" alt="DevOps"/>
-
-</div>
-
-<h2 align="center">GitHub Statistics</h2>
+## GitHub Statistics
 
 <div align="center">
-    <h4> Overall Contributions and Activity</h4>
-    <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=gray&title_color=black&icon_color=black&text_color=black" alt="GitHub Stats">
-    
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=gray&title_color=black&icon_color=black&text_color=black" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&bg_color=gray&title_color=black&text_color=black&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
+</div>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SashVqz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
