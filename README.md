@@ -7,7 +7,9 @@
 As an AI model architect, I possess strong analytical capabilities, demonstrated in research projects focused on designing efficient and scalable architectures. My goal is always high performance, which I complement with my experience in seeking solutions in Kaggle competitions and scientific research groups.
 
 In project management, I apply the Scrum methodology and use Git for version control. I have a constant interest in acquiring knowledge in fields such as astrophysics, quantum mechanics, medicine, and finance.
-</br>
+
+<br>
+
 <div align="center">
   <a href="mailto:alvaro.vazquez.1716@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -22,6 +24,8 @@ In project management, I apply the Scrum methodology and use Git for version con
      <img src="https://img.shields.io/badge/Curriculum-333333?style=for-the-badge&logo=google-drive&logoColor=white" alt="Curriculum Vitae" />
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=gray&title_color=black&icon_color=black&text_color=black" alt="GitHub Stats"/>
