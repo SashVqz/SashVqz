@@ -5,8 +5,7 @@
 <h3 align="center">Software Engineer | Computational Physicist</h3>
 
 Software Engineer and Computational Physicist specializing in the design and implementation of artificial intelligence architectures (Computer Vision, Machine Learning, and Deep Learning). I have experience in GPU programming and distributed systems, which I apply to optimize the performance of AI models and develop complex simulations of virtual environments. I complement with my experience in seeking solutions in Kaggle competitions and scientific research groups.
-
-|I have a constant interest in acquiring knowledge in fields such as astrophysics, quantum mechanics, medicine, and finance.
+I have a constant interest in acquiring knowledge in fields such as astrophysics, quantum mechanics, medicine, and finance.
 
 <br>
 
