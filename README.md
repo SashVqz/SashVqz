@@ -29,5 +29,6 @@ In project management, I apply the Scrum methodology and use Git for version con
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=SashVqz&count_private=true&show_icons=true&rank_icon=github&border_radius=10&bg_color=gray&title_color=black&icon_color=black&text_color=black" alt="GitHub Stats"/>
-  <!-- <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&bg_color=gray&title_color=black&text_color=black&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/> -->
+    .
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SashVqz&hide=HTML&langs_count=8&layout=compact&bg_color=gray&title_color=black&text_color=black&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
