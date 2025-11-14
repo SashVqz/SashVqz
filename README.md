@@ -24,27 +24,27 @@
   <tr>
     <td align="center" style="padding: 0 15px;">
       <a href="mailto:alvaro.vazquez.1716@gmail.com" target="_blank">
-        <img src="https://api.iconify.design/mdi/gmail.svg?color=9933CC" height="40" alt="Gmail" />
+        <img src="https://api.iconify.design/simple-icons/gmail.svg?color=9933CC" height="40" alt="Gmail" />
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
       <a href="https://www.linkedin.com/in/%C3%A1lvaro-v%C3%A1zquez-384956323/" target="_blank">
-        <img src="https://api.iconify.design/mdi/linkedin.svg?color=9933CC" height="40" alt="LinkedIn" />
+        <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=9933CC" height="40" alt="LinkedIn" />
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
       <a href="https://porfolio-sash.vercel.app" target="_blank">
-        <img src="https://api.iconify.design/logos/vercel.svg?color=9933CC" height="40" alt="Portfolio (Vercel)" />
+        <img src="https://api.iconify.design/simple-icons/vercel.svg?color=9933CC" height="40" alt="Portfolio (Vercel)" />
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
       <a href="https://www.canva.com/design/DAGV6cn5gSk/XhEuxhCcwEUYOCc4GZ5mcA/view?utm_content=DAGV6cn5gSk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04e5daecfe" target="_blank">
-        <img src="https://api.iconify.design/mdi/google-drive.svg?color=9933CC" height="40" alt="Resume (CV)" />
+        <img src="https://api.iconify.design/simple-icons/googledrive.svg?color=9933CC" height="40" alt="Resume (CV)" />
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
       <a href="https://www.kaggle.com/[YOUR_KAGGLE_USER]" target="_blank">
-        <img src="https://api.iconify.design/logos/kaggle.svg?color=9933CC" height="40" alt="Kaggle" />
+        <img src="https://api.iconify.design/simple-icons/kaggle.svg?color=9933CC" height="40" alt="Kaggle" />
       </a>
     </td>
   </tr>
