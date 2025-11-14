@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Portfolio-211F20?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   .
-  <a href="https://www.canva.com/design/DAGV6cn5gSk/XhEuxhCcwEUYOCc4GZ5mcA/view?utm_content=DAGV6cn5gSk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04e5daecfe" target="_blank">
+  <a href="https://www.canva.com/design/DAG2Cc_0F7c/vVMD9dziFIO3ZNHDV7YiMA/view?utm_content=DAG2Cc_0F7c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he79ba6d0c3" target="_blank">
     <img src="https://img.shields.io/badge/CV-211F20?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume (CV)" />
   </a>
   .
