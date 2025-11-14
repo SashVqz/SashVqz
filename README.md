@@ -20,7 +20,6 @@
   <img src="https://raw.githubusercontent.com/SashVqz/SashVqz/output/github-snake.svg" alt="Contribution Snake"/>
 </div>
 
-&nbsp; <br>
 <div align="center">
   <a href="mailto:alvaro.vazquez.1716@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/9933CC" height="40" alt="Gmail" />
