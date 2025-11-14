@@ -1,10 +1,10 @@
-<h3 align="center">Software Engineer | Physicist</h3>
+<h1 align="center">Software Engineer | Physicist</h1>
 
-<p align="center">
+<h4 align="center">
 &nbsp; Designing AI architectures (Computer Vision, ML, DL) and optimizing complex simulations using GPU programming and distributed systems.
 &nbsp; <br>
 &nbsp; Experienced in Kaggle competitions and scientific research groups, with interests spanning astrophysics, quantum physics, medicine, and finance.
-</p>
+</h4>
 
 <h2 align="center"> GitHub Stats</h2>
 
@@ -21,25 +21,24 @@
 </div>
 
 &nbsp; <br>
-
 <div align="center">
   <a href="mailto:alvaro.vazquez.1716@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-211F20?style=for-the-badge&logo=gmail&logoColor=9933CC" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/9933CC" height="40" alt="Gmail" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/álvaro-vázquez-384956323/" target="_blank">
-    <img src="https://img.shields.io/badge/-211F20?style=for-the-badge&logo=linkedin&logoColor=9933CC" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/9933CC" height="40" alt="LinkedIn" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://porfolio-sash.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-211F20?style=for-the-badge&logo=vercel&logoColor=9933CC" alt="Portfolio" />
+    <img src="https://cdn.simpleicons.org/vercel/9933CC" height="40" alt="Portfolio (Vercel)" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.canva.com/design/DAGV6cn5gSk/XhEuxhCcwEUYOCc4GZ5mcA/view?utm_content=DAGV6cn5gSk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04e5daecfe" target="_blank">
-    <img src="https://img.shields.io/badge/-211F20?style=for-the-badge&logo=google-drive&logoColor=9933CC" alt="Resume (CV)" />
+    <img src="https://cdn.simpleicons.org/googledrive/9933CC" height="40" alt="Resume (CV)" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/[YOUR_KAGGLE_USER]" target="_blank">
-    <img src="https://img.shields.io/badge/-211F20?style=for-the-badge&logo=kaggle&logoColor=9933CC" alt="Kaggle" />
+    <img src="https://cdn.simpleicons.org/kaggle/9933CC" height="40" alt="Kaggle" />
   </a>
 </div>
