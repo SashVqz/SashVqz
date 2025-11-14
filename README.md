@@ -22,7 +22,7 @@
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
-      <a href="https://www.linkedin.com/in/álvaro-vázquez-384956323/" target="_blank">
+      <a href="https://www.linkedin.com/in/%C3%A1lvaro-v%C3%A1zquez-384956323/" target="_blank">
         <img src="https://cdn.simpleicons.org/linkedin/9933CC" height="40" alt="LinkedIn" />
       </a>
     </td>
