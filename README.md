@@ -34,7 +34,7 @@
     </td>
     <td align="center" style="padding: 0 15px;">
       <a href="https://porfolio-sash.vercel.app" target="_blank">
-        <img src="https://api.iconify.design/mdi/vercel.svg?color=9933CC" height="40" alt="Portfolio (Vercel)" />
+        <img src="https://api.iconify.design/logos/vercel.svg?color=9933CC" height="40" alt="Portfolio (Vercel)" />
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
@@ -44,7 +44,7 @@
     </td>
     <td align="center" style="padding: 0 15px;">
       <a href="https://www.kaggle.com/[YOUR_KAGGLE_USER]" target="_blank">
-        <img src="https://api.iconify.design/mdi/kaggle.svg?color=9933CC" height="40" alt="Kaggle" />
+        <img src="https://api.iconify.design/logos/kaggle.svg?color=9933CC" height="40" alt="Kaggle" />
       </a>
     </td>
   </tr>
