@@ -9,8 +9,11 @@
 <h2 align="center"> GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SashVqz&show_icons=true&count_private=true&theme=dark&line_height=25&hide_border=true&bg_color=211F20&title_color=9933CC&icon_color=FFFFFF&text_color=CCCCCC" alt="Alvaro's GitHub Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashVqz&layout=compact&theme=dark&hide_border=true&bg_color=211F20&title_color=9933CC&icon_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SashVqz&show_icons=true&count_private=true&theme=dark&line_height=25&hide_border=true&bg_color=211F20&title_color=9933CC&icon_color=FFFFFF&text_color=CCCCCC" alt="Alvaro's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashVqz&layout=compact&theme=dark&hide_border=true&bg_color=211F20&title_color=9933CC&icon_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" width="495" />
 </p>
 
 <div align="center">
