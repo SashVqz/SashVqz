@@ -8,14 +8,6 @@
 </h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SashVqz&show_icons=true&count_private=true&theme=dark&line_height=25&hide_border=true&bg_color=211F20&title_color=9933CC&icon_color=FFFFFF&text_color=CCCCCC" alt="Alvaro's GitHub Stats" />
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SashVqz/SashVqz/output/github-snake.svg" alt="Contribution Snake"/>
-</div>
-
-<p align="center">
   <a href="mailto:alvaro.vazquez.1716@gmail.com" target="_blank">
     <img src="https://api.iconify.design/simple-icons/gmail.svg" height="56" alt="Gmail" />
   </a>
@@ -32,3 +24,13 @@
     <img src="https://api.iconify.design/simple-icons/kaggle.svg" height="56" alt="Kaggle" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SashVqz&show_icons=true&count_private=true&theme=dark&line_height=25&hide_border=true&bg_color=211F20&title_color=9933CC&icon_color=FFFFFF&text_color=CCCCCC" alt="Alvaro's GitHub Stats" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SashVqz/SashVqz/output/github-snake.svg" alt="Contribution Snake"/>
+</div>
+
+
