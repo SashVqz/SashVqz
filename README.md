@@ -20,24 +20,21 @@
   <img src="https://raw.githubusercontent.com/SashVqz/SashVqz/output/github-snake.svg" alt="Contribution Snake"/>
 </div>
 
-<div align="center">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%; max-width: 1200px; margin: 0 auto; padding: 20px 0;">
   <a href="mailto:alvaro.vazquez.1716@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/9933CC" height="40" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/álvaro-vázquez-384956323/" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/9933CC" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://porfolio-sash.vercel.app" target="_blank">
     <img src="https://cdn.simpleicons.org/vercel/9933CC" height="40" alt="Portfolio (Vercel)" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.canva.com/design/DAGV6cn5gSk/XhEuxhCcwEUYOCc4GZ5mcA/view?utm_content=DAGV6cn5gSk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04e5daecfe" target="_blank">
     <img src="https://cdn.simpleicons.org/googledrive/9933CC" height="40" alt="Resume (CV)" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/[YOUR_KAGGLE_USER]" target="_blank">
     <img src="https://cdn.simpleicons.org/kaggle/9933CC" height="40" alt="Kaggle" />
   </a>
+</div>
 </div>
