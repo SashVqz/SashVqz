@@ -13,23 +13,23 @@
 </p>
 
 <div align="center">
-&nbsp; <img src="https://github-readme-contribution-snake.vercel.app/api?username=SashVqz&color_snake=9933CC&color_dots=#FFFFFF" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/SashVqz/SashVqz/output/github-snake.svg" alt="Contribution Snake"/>
 </div>
 
 <p align="center">
 &nbsp; <a href="mailto:alvaro.vazquez.1716@gmail.com" target="_blank">
-&nbsp; &nbsp; <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=211F20" alt="Gmail" />
+&nbsp; &nbsp; <img src="https://img.shields.io/badge/Gmail-211F20?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 &nbsp; </a>
 &nbsp; <a href="https://www.linkedin.com/in/álvaro-vázquez-384956323/" target="_blank">
-&nbsp; &nbsp; <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=211F20" alt="LinkedIn" />
+&nbsp; &nbsp; <img src="https://img.shields.io/badge/LinkedIn-211F20?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 &nbsp; </a>
 &nbsp; <a href="https://porfolio-sash.vercel.app" target="_blank">
-&nbsp; &nbsp; &nbsp;<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white&color=211F20" alt="Portfolio" />
+&nbsp; &nbsp; &nbsp;<img src="https://img.shields.io/badge/Portfolio-211F20?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
 &nbsp; </a>
 &nbsp; <a href="https://www.canva.com/design/DAGV6cn5gSk/XhEuxhCcwEUYOCc4GZ5mcA/view?utm_content=DAGV6cn5gSk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04e5daecfe" target="_blank">
-&nbsp; &nbsp; &nbsp;<img src="https://img.shields.io/badge/CV-333333?style=for-the-badge&logo=google-drive&logoColor=white&color=211F20" alt="Resume (CV)" />
+&nbsp; &nbsp; &nbsp;<img src="https://img.shields.io/badge/CV-211F20?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume (CV)" />
 &nbsp; </a>
 &nbsp; &nbsp; <a href="https://www.kaggle.com/[YOUR_KAGGLE_USER]" target="_blank">
-&nbsp; &nbsp; <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=211F20" alt="Kaggle" />
+&nbsp; &nbsp; <img src="https://img.shields.io/badge/Kaggle-211F20?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 &nbsp; </a>
 </p>
