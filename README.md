@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/SashVqz/SashVqz/output/github-snake.svg" alt="Contribution Snake"/>
 </div>
 
-<div style="width: 480px; margin: 0 auto; display: flex; justify-content: center; align-items: center; gap: 48px; margin-top: 16px;">
+<p align="center">
   <a href="mailto:alvaro.vazquez.1716@gmail.com" target="_blank">
     <img src="https://api.iconify.design/simple-icons/gmail.svg?color=9933CC" height="56" alt="Gmail" />
   </a>
@@ -36,5 +36,6 @@
   <a href="https://www.kaggle.com/[YOUR_KAGGLE_USER]" target="_blank">
     <img src="https://api.iconify.design/simple-icons/kaggle.svg?color=9933CC" height="56" alt="Kaggle" />
   </a>
-</div>
+</p>
+
 
