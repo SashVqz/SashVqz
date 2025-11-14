@@ -20,20 +20,21 @@
   <img src="https://raw.githubusercontent.com/SashVqz/SashVqz/output/github-snake.svg" alt="Contribution Snake"/>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+<div style="width: 480px; margin: 0 auto; display: flex; justify-content: center; align-items: center; gap: 48px; margin-top: 16px;">
   <a href="mailto:alvaro.vazquez.1716@gmail.com" target="_blank">
-    <img src="https://api.iconify.design/simple-icons/gmail.svg?color=9933CC" height="40" alt="Gmail" />
+    <img src="https://api.iconify.design/simple-icons/gmail.svg?color=9933CC" height="56" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/%C3%A1lvaro-v%C3%A1zquez-384956323/" target="_blank">
-    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=9933CC" height="40" alt="LinkedIn" />
+    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=9933CC" height="56" alt="LinkedIn" />
   </a>
   <a href="https://porfolio-sash.vercel.app" target="_blank">
-    <img src="https://api.iconify.design/simple-icons/vercel.svg?color=9933CC" height="40" alt="Portfolio (Vercel)" />
+    <img src="https://api.iconify.design/simple-icons/vercel.svg?color=9933CC" height="56" alt="Portfolio (Vercel)" />
   </a>
   <a href="https://www.canva.com/design/DAGV6cn5gSk/XhEuxhCcwEUYOCc4GZ5mcA/view?utm_content=DAGV6cn5gSk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04e5daecfe" target="_blank">
-    <img src="https://api.iconify.design/simple-icons/googledrive.svg?color=9933CC" height="40" alt="Resume (CV)" />
+    <img src="https://api.iconify.design/simple-icons/googledrive.svg?color=9933CC" height="56" alt="Resume (CV)" />
   </a>
   <a href="https://www.kaggle.com/[YOUR_KAGGLE_USER]" target="_blank">
-    <img src="https://api.iconify.design/simple-icons/kaggle.svg?color=9933CC" height="40" alt="Kaggle" />
+    <img src="https://api.iconify.design/simple-icons/kaggle.svg?color=9933CC" height="56" alt="Kaggle" />
   </a>
 </div>
+
