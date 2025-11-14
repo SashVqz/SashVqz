@@ -5,19 +5,19 @@ Design AI architectures (Computer Vision, ML, DL), optimizing and simulations us
 </h4>
 
 <p align="center">
-  <a href="mailto:alvaro.vazquez.1716@gmail.com" target="_blank">
+  <a href="mailto:alvaro.vazquez.1716@gmail.com">
     <img src="https://api.iconify.design/simple-icons/gmail.svg" height="56" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/%C3%A1lvaro-v%C3%A1zquez-384956323/" target="_blank">
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-v%C3%A1zquez-384956323/">
     <img src="https://api.iconify.design/simple-icons/linkedin.svg" height="56" alt="LinkedIn" />
   </a>
-  <a href="https://porfolio-sash.vercel.app" target="_blank">
+  <a href="https://porfolio-sash.vercel.app">
     <img src="https://api.iconify.design/simple-icons/vercel.svg" height="56" alt="Portfolio (Vercel)" />
   </a>
-  <a href="https://www.canva.com/design/DAGV6cn5gSk/XhEuxhCcwEUYOCc4GZ5mcA/view?utm_content=DAGV6cn5gSk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04e5daecfe" target="_blank">
+  <a href="https://www.canva.com/design/DAGV6cn5gSk/XhEuxhCcwEUYOCc4GZ5mcA/view?utm_content=DAGV6cn5gSk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04e5daecfe">
     <img src="https://api.iconify.design/simple-icons/googledrive.svg" height="56" alt="Resume (CV)" />
   </a>
-  <a href="https://www.kaggle.com/[YOUR_KAGGLE_USER]" target="_blank">
+  <a href="https://www.kaggle.com/[YOUR_KAGGLE_USER]">
     <img src="https://api.iconify.design/simple-icons/kaggle.svg" height="56" alt="Kaggle" />
   </a>
 </p>
