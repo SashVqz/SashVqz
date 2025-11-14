@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashVqz&layout=compact&theme=dark&hide_border=true&bg_color=211F20&title_color=9933CC&icon_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" width="475" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashVqz&layout=compact&theme=dark&hide_border=true&bg_color=211F20&title_color=9933CC&icon_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" width="470" />
 </p>
 
 <div align="center">
