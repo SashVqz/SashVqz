@@ -1,10 +1,7 @@
 <h1 align="center">Software Engineer | Physicist</h1>
 
 <h4 align="left">
-&nbsp; Design AI architectures (Computer Vision, ML, DL) and optimizing&simulations using GPU programming and distributed systems.
-&nbsp; <br>
-&nbsp; <br>
-&nbsp; Interests spanning astrophysics, quantum physics, medicine, and finance.
+&nbsp; Design AI architectures (Computer Vision, ML, DL), optimizing and simulations using GPU programming and distributed systems. Interests spanning astrophysics, quantum physics, medicine, and finance.
 </h4>
 
 <p align="center">
